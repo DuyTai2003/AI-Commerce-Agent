@@ -31,6 +31,16 @@ yarn-error.log*
 # env files
 .env
 .env*.local
+.env.production
+.env.development
+
+# NEVER commit these
+*.pem
+*_rsa
+id_rsa*
+*.key
+secret*
+credentials*
 
 # vercel
 .vercel
