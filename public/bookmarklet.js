@@ -134,5 +134,5 @@ javascript: (function () {
   const encodedData = encodeURIComponent(JSON.stringify(data));
 
   // Mở app trong tab mới với dữ liệu qua query param
-  window.open(`${APP_URL}/?feed=${encodedData}`, "_blank");
+  window.open(`${APP_URL}?feed=${encodedData}`, "_blank");
 })();
