@@ -12,7 +12,7 @@
  */
 
 javascript: (function () {
-  const APP_URL = "https://ai-commerce-agent.vercel.app"; // Thay bằng URL deploy thật của bạn
+  const APP_URL = "https://truongduy-ai-commerce.netlify.app/";
 
   // ====== STEP 1: Trích xuất dữ liệu từ trang 1688 ======
   function extract1688Data() {
@@ -93,7 +93,7 @@ javascript: (function () {
     });
 
     // Tổng hợp rawText
-    const parts: string[] = [];
+    const parts = [];
     if (data.title) parts.push(`【${data.title}】`);
     if (data.price) parts.push(`价格: ${data.price}`);
     Object.entries(data.specs).forEach(([k, v]) => {
