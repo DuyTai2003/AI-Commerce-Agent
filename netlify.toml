@@ -1,0 +1,14 @@
+# Netlify Configuration for AI Commerce Agent
+# Docs: https://docs.netlify.com/configure-builds/file-based-configuration/
+
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+[build.environment]
+  NEXT_TELEMETRY_DISABLED = "1"
+
+# Next.js on Netlify requires the Netlify Next.js plugin
+# It will be auto-detected, but we specify it explicitly
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
