@@ -1,17 +1,23 @@
 # 🚀 AI Commerce Agent — 1688 Product Localization
 
-**🇬🇧 English** | **🇻🇳 Tiếng Việt** | **🇨🇳 简体中文** | **🇹🇼 繁體中文**
+<div align="center">
+
+**[🇬🇧 English](#english)** &nbsp;|&nbsp; **[🇻🇳 Tiếng Việt](#vietnamese)** &nbsp;|&nbsp; **[🇨🇳 简体中文](#simplified-chinese)** &nbsp;|&nbsp; **[🇹🇼 繁體中文](#traditional-chinese)**
 
 > AI-powered tool that converts 1688.com product listings into Vietnamese e-commerce content (Shopee, TikTok Shop) — $0 operating cost.
 
-[![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js)](https://nextjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue?logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-v4-38bdf8?logo=tailwindcss)](https://tailwindcss.com/)
 [![Gemini](https://img.shields.io/badge/AI-Gemini%201.5%20Flash-8e75ff?logo=googlegemini)](https://ai.google.dev/)
 [![Cost: $0](https://img.shields.io/badge/Cost-%240-success)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+</div>
+
 ---
+
+<a id="english"></a>
 
 ## 🇬🇧 English
 
@@ -147,6 +153,7 @@ npm run dev
 
 ---
 
+<a id="vietnamese"></a>
 ## 🇻🇳 Tiếng Việt
 
 ### Tổng Quan
@@ -234,6 +241,7 @@ npm run dev
 
 ---
 
+<a id="simplified-chinese"></a>
 ## 🇨🇳 简体中文
 
 ### 概述
@@ -321,6 +329,7 @@ npm run dev
 
 ---
 
+<a id="traditional-chinese"></a>
 ## 🇹🇼 繁體中文
 
 ### 概述
