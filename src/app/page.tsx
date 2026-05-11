@@ -85,13 +85,6 @@ export default function Home() {
         </p>
         <ImageUpload onAnalyze={handleImageAnalyze} />
       </section>
-
-      {/* Footer info */}
-      <footer className="text-center pb-8">
-        <p className="text-[11px] text-[var(--color-muted-foreground)]">
-          {t("footer.text")}
-        </p>
-      </footer>
     </div>
   );
 }

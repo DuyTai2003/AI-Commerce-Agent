@@ -25,9 +25,6 @@ export function Header() {
         </div>
         <div className="flex items-center gap-3">
           <LanguageSwitcher />
-          <span className="text-[11px] text-[var(--color-muted-foreground)] bg-[var(--color-muted)] px-2 py-0.5 rounded-full">
-            {t("app.badge")}
-          </span>
         </div>
       </div>
     </header>
