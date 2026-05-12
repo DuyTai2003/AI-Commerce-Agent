@@ -17,6 +17,22 @@
 
 </div>
 
+## 📸 Preview / Ảnh chụp màn hình
+
+| 🖥️ Input & Processing / Nhập liệu & Xử lý | 📋 Results & Output / Kết quả & Đầu ra |
+|:---:|:---:|
+| ![Input Panel](./public/1.png) | ![Output Panel](./public/2.png) |
+
+> 💡 **Tip:** Paste raw 1688.com product data on the left → AI extracts specs, writes SEO descriptions & suggests catchy titles on the right.
+
+---
+
+<div align="center">
+
+### 🌐 **[🇬🇧 English](#english)** &nbsp;|&nbsp; **[🇻🇳 Tiếng Việt](#vietnamese)** &nbsp;|&nbsp; **[🇨🇳 简体中文](#simplified-chinese)** &nbsp;|&nbsp; **[🇹🇼 繁體中文](#traditional-chinese)**
+
+</div>
+
 ---
 
 <a id="english"></a>
